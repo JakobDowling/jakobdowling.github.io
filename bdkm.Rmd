@@ -1,0 +1,12 @@
+---
+title: "Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act"
+---
+Kelly Bishop, Jakob Dowling, Nicolai Kuminoff and Alvin Murphy
+
+### Maps
+* User cost rates of housing by PUMA for current homeowners with an active mortgage:
+  + [2017](bdkm/maps/ucr-2017.html)
+  + [2018](bdkm/maps/ucr-2018.html)
+* [Percent change in user cost rate of housing by PUMA 2017 to 2018](bdkm/maps/ucr-pct-diff.html)
+* [Change in the percent of PUMA residents that itemized their deductions between 2017 and 2018 (pre and post TCJA)](bdkm/maps/change-filing-status.html)
+* [Reduction due to TCJA in refunds relative to home value for current homeowners with an active mortgage by PUMA](bdkm/maps/refund-reduction.html)
