@@ -6,10 +6,10 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "CV"
+      href: cv.html
     - text: "Research"
       href: research.html
-    # - text: "CV"
-    #   href: cv.html
     # - text: "Blog"
     #   href: https://jakobdowling.github.io/blog/
   right:

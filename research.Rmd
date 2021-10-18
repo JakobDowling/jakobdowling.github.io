@@ -1,8 +1,20 @@
 ---
 title: "Research"
 ---
+### Working Papers
 
-### Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act
-Joint with Kelly Bishop, Nicolai Kuminoff and Alvin Murphy.
+$$\\[2pt]$$
 
-Maps related to this project can be accessed [here](bdkm.html).
+#### Neighborhood Effects on the Production of Human Capital: Evidence from Movers in North Carolina
+[[PDF]](content/dowling_neighborhoods_oct2021.pdf)
+
+**Abstract:** I investigate whether neighborhood exposures during childhood affect academic outcomes observed at the end-of-high school, and whether the effects can be explained by neighborhood schools. I find that neighborhood exposures during childhood affect high-stakes standardized exam scores, 12th grade GPA, the probability of intending to attend college and the probability of dropping out of high school. By leveraging variation in the age at which students move, I estimate exposure effects that encompass the effect of neighborhood schools and other amenities. I demonstrate that these effects can not be fully explained by conventional school quality measures based on test scores or graduation rates, which points to the potential importance of peer effects and other neighborhood amenities as complementary mechanisms. 
+
+***
+
+### Work in Progress
+
+$$\\[2pt]$$
+
+#### Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act
+*Joint with Kelly Bishop, Nicolai Kuminoff and Alvin Murphy.*
