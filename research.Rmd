@@ -1,9 +1,12 @@
 ---
 title: "Research"
 ---
-### Working Papers
 
 $$\\[2pt]$$
+
+### Working Papers
+
+$$\\[1pt]$$
 
 #### Neighborhood Effects on the Production of Human Capital: Evidence from Movers in North Carolina
 [[PDF]](content/dowling_neighborhoods_oct2021.pdf)
@@ -12,9 +15,11 @@ $$\\[2pt]$$
 
 ***
 
+$$\\[2pt]$$
+
 ### Work in Progress
 
-$$\\[2pt]$$
+$$\\[1pt]$$
 
 #### Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act
 *Joint with Kelly Bishop, Nicolai Kuminoff and Alvin Murphy.*

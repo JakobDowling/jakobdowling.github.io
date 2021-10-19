@@ -1,9 +1,9 @@
 ---
 title: "Jakob Dowling"
 ---
+<img style="float: right;" src="content/headshot_apr21_small.jpg">
 
 Welcome to my website.
 
-![](content/headshot_apr21_small.jpg)
-
 I am a 5th year PhD Candidate in Economics at Arizona State University. My research focuses on topics in Urban and Education Economics using a variety of Applied Microeconomics methodologies.
+
