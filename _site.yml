@@ -19,6 +19,9 @@ navbar:
     - text: "Twitter"
       icon: fa-twitter
       href: https://twitter.com/JakobDowling
+    - text: "LinkedIn"
+      icon: fa-linkedin
+      href: https://www.linkedin.com/in/jakobdowling
 output:
   html_document:
     theme: readable
