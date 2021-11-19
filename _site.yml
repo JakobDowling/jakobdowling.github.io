@@ -24,5 +24,7 @@ navbar:
       href: https://www.linkedin.com/in/jakobdowling
 output:
   html_document:
+    includes:
+        in_header: ga_script.html
     theme: readable
     highlight: tango
