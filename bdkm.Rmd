@@ -1,0 +1,17 @@
+---
+title: "Interactive Maps"
+---
+This companion site contains interactive maps related to the project *Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act* by Kelly Bishop, Jakob Dowling, Nicolai Kuminoff and Alvin Murphy. In the future, we will also provide a downloadable database of user cost rates and housing subsidies by PUMA over time.
+
+***
+
+##### Maps
+* [User cost rates of housing by PUMA: 2016-2017 means](bdkm/maps/ucr.html)
+
+* [Subsidies to housing by PUMA: 2016-2017 means](bdkm/maps/subsidies.html)
+
+* [Impact of TCJA on user cost rates](bdkm/maps/subsidies.html)
+
+* [Impact of TCJA on subsidies](bdkm/maps/subsidies.html)
+
+***

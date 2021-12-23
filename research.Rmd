@@ -22,7 +22,9 @@ $$\\[0.5pt]$$
 $$\\[1pt]$$
 
 #### Tax Subsidies and the Cost of Homeownership: Evidence from the Tax Cuts and Jobs Act
-*Joint with Kelly Bishop, Nicolai Kuminoff and Alvin Murphy.*
+*Joint with [Kelly Bishop](http://www.public.asu.edu/~kcbisho2/), [Nicolai Kuminoff](http://www.public.asu.edu/~nkuminof/) and [Alvin Murphy](http://www.public.asu.edu/~amurph10/).*
+
+[[Interactive Maps]](bdkm.html)
 
 **Abstract:** Homeownership in the U.S. has been supported via the mortgage-interest-deduction provision of the tax code. For example, during 2017, U.S. tax policy effectively subsidized homeownership by approximately $90 billion. However, U.S. tax policy was substantially changed with the Tax Cuts and Jobs Act (TCJA) of 2017, which, by doubling the standard deduction, effectively made housing more expensive relative to other types of consumption by reducing the incentive to claim mortgage interest as a deductible expense. This paper quantifies the magnitude of the subsidization of homeownership and calculates how the TCJA affected both this subsidization and homeownership costs more broadly.
 
