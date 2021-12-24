@@ -6,12 +6,14 @@ This companion site contains interactive maps related to the project *Tax Subsid
 ***
 
 ##### Maps
-* [User cost rates of housing by PUMA: 2016-2017 means](bdkm/maps/ucr.html)
+* [User cost rates of housing by PUMA: 2016-2017 means](bdkm/maps/mean-ucr-2016-2017.html)
 
-* [Subsidies to housing by PUMA: 2016-2017 means](bdkm/maps/subsidies.html)
+* [Subsidies to housing by PUMA: 2016-2017 means](bdkm/maps/mean-subsidy-2016-2017.html)
 
-* [Impact of TCJA on user cost rates](bdkm/maps/subsidies.html)
+* [Impact of TCJA on user cost rates](bdkm/maps/tcja-impact-ucr.html)
 
-* [Impact of TCJA on subsidies](bdkm/maps/subsidies.html)
+* [Impact of TCJA on subsidies](bdkm/maps/tcja-impact-subsidy.html)
+
+* [Impact of TCJA on filing status](bdkm/maps/change-filing-status.html)
 
 ***
