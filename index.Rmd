@@ -5,7 +5,7 @@ title: "Jakob Dowling"
 
 Welcome to my website.
 
-I am a 5th year PhD Candidate in Economics at Arizona State University. My research focuses on topics in Urban and Education Economics using a variety of Applied Microeconomics methodologies.
+This summer I will be joining Amazon as an Economist after graduating from Arizona State University. My research focuses on topics in Urban and Education Economics using a variety of Applied Microeconomics methodologies.
 
 Download my CV [here](content/dowling_cv_oct2021.pdf) or check out my [research projects](research.html).
 
