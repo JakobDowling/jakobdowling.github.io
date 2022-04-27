@@ -10,8 +10,8 @@ navbar:
       href: cv.html
     - text: "Research"
       href: research.html
-    - text: "Blog"
-      href: https://jakobdowling.github.io/blog/
+    # - text: "Blog"
+    #   href: https://jakobdowling.github.io/blog/
   right:
     - text: "Email"
       icon: fa-envelope-o
